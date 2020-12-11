@@ -1,23 +1,18 @@
-# walterbot
-Twitter bot that responds when mentioned. He helps you when you are bad, sad, need help or have an emotional problem.
+# Walterbot
+Twitter bot that responds when mentioned and tweets every 12 hours whit a phrase said by Walter White. 
 
 ### Use
 
-Mention @walterhelpyou on twitter asking him for help. You must include words like "bad", "sad", "help", "problem", etc.\
-Ex. @walterbott: i am feeling bad \
-    @user: Dont feel bad, there´s always something to be grateful for.\
-
-Note: the responses are given randomly
+Mention @walterhelpyou on twitter asking him for a phrase by WW. You must include the words "walter" or "white" on your tweet. \
+The responses are given randomly
 
 ### Libraries
 
 Tweepy.
 
-### Files
-
-bot.py \
-keys_rev.py (user needs to complete this file) \
-id.txt \
 
 
-The bot works but its not currently running
+
+
+
+

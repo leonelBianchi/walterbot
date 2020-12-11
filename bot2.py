@@ -52,6 +52,24 @@ frases = [
     "You know, i just think that things have a way of working themselves out.",
     "Name one thing on this world that is not negotiable.",
     "We´re done when I say we´re donde",
+    "You're an insane, degenerate piece of filth, and you deserve to die",
+    "Chemistry is the study of matter. But I prefer to see it as the study of change",
+    "I haven’t been myself lately, but I love you.",
+    "You know, I’d appreciate it. I really would.",
+    "Will you please, just once, get off my ass? You know, I’d appreciate it. I really would.",
+    "I have spent my whole life scared. Frightened of things that could happen, might happen, might not happen.",
+    "And I came to realize it’s that fear that’s the worst of it. That’s the real enemy.",
+    "It cannot be blind luck or some imaginary relative who saves us. No, I earned that money, me",
+    "There are two sides to every story, always.",
+    "Let’s see, how should I put this? I’m in, you’re out",
+    "Who are you talking to right now? Who is it you think you see? Do you know how much I make a year?",
+    "No, you clearly don’t know who you’re talking to, so let me clue you in.",
+    "What is going on with me is not about some disease, it’s about choices. Choices that I have made, choices I stand by.",
+    "Never give up control. Live life on your own terms.",
+    "I alone should suffer the consequences of those choices, no one else.",
+    "We’re done when I say we’re done.",
+    "It can be done exactly how I want it. The only question is, are you the man to do it?",
+    ""
     
 ]
 
@@ -99,7 +117,7 @@ while True:
         api.update_status(str(count)+ ". " + word_day)
         count+=1
         reply_to_tweets()
-        time.sleep(35)
+        time.sleep(28800)
     except tweepy.TweepError as error:
         if error.api_code == 187:
             # Do something special

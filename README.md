@@ -1,5 +1,5 @@
 # Walterbot
-Twitter bot that responds when mentioned and tweets every 12 hours whit a phrase said by Walter White. 
+Twitter bot that responds when mentioned and tweets every 6 hours whit a phrase said by Walter White. 
 
 ### Use
 

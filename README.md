@@ -1,4 +1,6 @@
 # Walterbot
+(currently not working)
+
 Twitter bot that responds when mentioned and tweets every 6 hours whit a phrase said by Walter White. 
 
 ### Use

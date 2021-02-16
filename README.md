@@ -1,5 +1,5 @@
 # Walterbot
-(currently not working)
+**(it is not currently running on the server)**
 
 Twitter bot that responds when mentioned and tweets every 6 hours whit a phrase said by Walter White. 
 
